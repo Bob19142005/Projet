@@ -11,5 +11,5 @@ This portfolio contains examples of my technical work, including:
 
 All projects are real, hands-on exercises completed during my studies and self-learning.
 
-<img src="Screenshot%202026-06-27%20014922.png" width="300" height="200" ><h1>
+<img src="photo_projet.png" width="300" height="200" >
 
