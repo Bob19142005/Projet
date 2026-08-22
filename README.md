@@ -23,5 +23,5 @@ Designed and configured a multi-segment network using Cisco Packet Tracer, inclu
 Windows Server 2022 & Hyper-V Lab
 Created and configured a Windows Server 2022 virtual machine using Hyper-V. Configured networking, static IP addressing, DNS, RDP, and performed connectivity testing.
 
-![Image](images/Screenshot-2026-07-04-154704.png)
+![Projet](Projet/Screenshot-2026-07-04-154704.png)
 
